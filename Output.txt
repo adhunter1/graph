@@ -1,0 +1,20 @@
+Command? H
+Q Query the city information by entering the city code.
+D Find the minimum distance between two cities.
+I Insert a road by entering two city codes and distance.
+R Remove an existing road by entering two city codes.
+H Display this message.
+E Exit.
+Command? Q
+City code: LV
+12 LV LEE VINING 8390 5983
+Command? D
+City codes : CH PM
+The minimum distance between CHINO HILLS and POMONA is 143 through the route : CH PR TR PM
+Command? I
+City codes and distance :GG BO 100
+You have inserted a road from GARDEN GRPVE to BOSSTOWN with a distance of 100
+Command? R
+City codes : KV MP
+The road from KERNVILLE to MOUNTAIN PASS doesn't exist
+Command? E
